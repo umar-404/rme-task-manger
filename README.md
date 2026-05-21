@@ -195,19 +195,6 @@ Frontend runs on: http://localhost:3000
 4. **User Isolation**: Users can only see and manage their own tasks
 5. **Error Handling**: Basic error responses; production would need more detailed logging
 
-## Improvements for Production
-
-- [ ] Input validation (express-validator)
-- [ ] Rate limiting on auth endpoints
-- [ ] HTTPS in production
-- [ ] Email verification for registration
-- [ ] Password reset functionality
-- [ ] Pagination for task list
-- [ ] Drag-and-drop task reordering
-- [ ] Due dates for tasks
-- [ ] Task categories/tags
-- [ ] Unit and integration tests
-
 ## Environment Variables
 
 | Variable | Description |
